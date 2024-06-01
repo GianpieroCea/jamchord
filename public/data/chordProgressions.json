@@ -1,0 +1,226 @@
+[
+  {
+    "name": "I - IV - V - I",
+    "chords": ["I", "IV", "V", "I"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "I - V - vi - IV",
+    "chords": ["I", "V", "vi", "IV"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "ii - V - I",
+    "chords": ["ii", "V", "I"],
+    "isMajor": true,
+    "numChords": 3,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "vi - IV - I - V",
+    "chords": ["vi", "IV", "I", "V"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "I - vi - IV - V",
+    "chords": ["I", "vi", "IV", "V"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "I - IV - vi - V",
+    "chords": ["I", "IV", "vi", "V"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "I - IV - I - V",
+    "chords": ["I", "IV", "I", "V"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "I - V - ii - IV",
+    "chords": ["I", "V", "ii", "IV"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "i - bVI - bIII - bVII",
+    "chords": ["i", "bVI", "bIII", "bVII"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "i - iv - v",
+    "chords": ["i", "iv", "v"],
+    "isMajor": false,
+    "numChords": 3,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "i - VII - VI - VII",
+    "chords": ["i", "VII", "VI", "VII"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "i - VI - III - VII",
+    "chords": ["i", "VI", "III", "VII"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "i - iv - VII",
+    "chords": ["i", "iv", "VII"],
+    "isMajor": false,
+    "numChords": 3,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "i - VI - iv - v",
+    "chords": ["i", "VI", "iv", "v"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "i - VI - III - iv",
+    "chords": ["i", "VI", "III", "iv"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "I - IV - V - bVII",
+    "chords": ["I", "IV", "V", "bVII"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "I - vi - ii - V",
+    "chords": ["I", "vi", "ii", "V"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "I - V7/vi - vi - V",
+    "chords": ["I", "V7/vi", "vi", "V"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "I - bVII - IV - I",
+    "chords": ["I", "bVII", "IV", "I"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "I - V - bVII - IV",
+    "chords": ["I", "V", "bVII", "IV"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "I - IV - V7 - IV",
+    "chords": ["I", "IV", "V7", "IV"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "I - V7/ii - ii - V",
+    "chords": ["I", "V7/ii", "ii", "V"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "ii - V7 - I - vi",
+    "chords": ["ii", "V7", "I", "vi"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "ii - V7/iii - iii - V7",
+    "chords": ["ii", "V7/iii", "iii", "V7"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "ii - V - I - bVI",
+    "chords": ["ii", "V", "I", "bVI"],
+    "isMajor": true,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "i - iv - bVII - i",
+    "chords": ["i", "iv", "bVII", "i"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "i - iv - v7 - i",
+    "chords": ["i", "iv", "v7", "i"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": false
+  },
+  {
+    "name": "i - VI - III - bVII",
+    "chords": ["i", "VI", "III", "bVII"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "i - iv - V7 - VI",
+    "chords": ["i", "iv", "V7", "VI"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "i - bVII - VI - V",
+    "chords": ["i", "bVII", "VI", "V"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "i - v - bVII - iv",
+    "chords": ["i", "v", "bVII", "iv"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  },
+  {
+    "name": "i - v - VI - V",
+    "chords": ["i", "v", "VI", "V"],
+    "isMajor": false,
+    "numChords": 4,
+    "containsNonDiatonic": true
+  }
+]
