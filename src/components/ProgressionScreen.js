@@ -12,7 +12,7 @@ function ProgressionScreen({ progression, onBack }) {
 
     return (
         <div>
-            <h1>Chord Progression</h1>
+            <h1>{progression.name}</h1>
             <div>
                 <label>
                     Key:
